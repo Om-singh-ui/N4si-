@@ -91,46 +91,97 @@
     ✨ My Latest Medium Insights
   </h2>
 
-  <!-- 🌐 Article Cards -->
-  <div style="display:flex; flex-direction:column; align-items:center; gap:25px; max-width:700px;">
+## 🧠 Featured Articles  
 
-    <!-- ChatGPT 2025 -->
-    <div onclick="window.open('https://medium.com/@omchouhan227/chatgpt-in-2025-the-evolution-of-intelligence-from-autonomous-agents-to-sora-2-3b70549f3a6b','_blank')" 
-      style="cursor:pointer; width:100%; background:linear-gradient(135deg,#00fff0,#ff00c8); padding:25px; border-radius:16px; color:#fff; box-shadow:0 0 35px rgba(0,255,240,0.25); transition:all 0.35s ease; transform:translateY(0);"
-      onmouseover="this.style.transform='translateY(-6px) scale(1.02)'; this.style.boxShadow='0 0 45px rgba(255,0,200,0.4)';" 
-      onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 0 35px rgba(0,255,240,0.25)';">
-      <h3 style="margin:0; font-size:22px;">🚀 ChatGPT in 2025: The Evolution of Intelligence</h3>
-      <p style="margin:5px 0 0; opacity:0.85;">From Autonomous Agents to Sora 2</p>
-    </div>
+<div align="center" style="
+  background: radial-gradient(circle at top left, #0a0f14 0%, #0d1117 100%);
+  padding: 60px;
+  border-radius: 22px;
+  border: 1px solid rgba(255,255,255,0.08);
+  box-shadow: 0 0 40px rgba(0,255,240,0.08), inset 0 0 10px rgba(0,255,255,0.05);
+  backdrop-filter: blur(14px);
+  font-family: 'Fira Code', monospace;
+">
 
-    <!-- Graph It -->
-    <div onclick="window.open('https://medium.com/@omchouhan227/dont-just-rag-it-graph-it-building-smarter-ai-with-neo4j-gemini-insights-from-bhavesh-bhatt-s-1162bd5b77a4','_blank')" 
-      style="cursor:pointer; width:100%; background:linear-gradient(135deg,#f093fb,#f5576c); padding:25px; border-radius:16px; color:#fff; box-shadow:0 0 35px rgba(255,85,172,0.25); transition:all 0.35s ease; transform:translateY(0);"
-      onmouseover="this.style.transform='translateY(-6px) scale(1.02)'; this.style.boxShadow='0 0 45px rgba(245,87,108,0.4)';" 
-      onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 0 35px rgba(255,85,172,0.25)';">
-      <h3 style="margin:0; font-size:22px;">🔍 Don’t Just RAG It, Graph It</h3>
-      <p style="margin:5px 0 0; opacity:0.85;">Building Smarter AI with Neo4j & Gemini</p>
-    </div>
+  <!-- ✨ Medium Banner -->
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="130" alt="Medium Animated Logo" style="border-radius:50%; margin-bottom:25px; filter:drop-shadow(0 0 15px rgba(0,255,255,0.3));"/>
 
-    <!-- UPI Cards -->
-    <div onclick="window.open('https://medium.com/@omchouhan227/upi-cards-the-next-leap-in-indias-digital-payment-revolution-f4ce4eaa6257','_blank')" 
-      style="cursor:pointer; width:100%; background:linear-gradient(135deg,#4facfe,#00f2fe); padding:25px; border-radius:16px; color:#fff; box-shadow:0 0 35px rgba(79,172,254,0.25); transition:all 0.35s ease; transform:translateY(0);"
-      onmouseover="this.style.transform='translateY(-6px) scale(1.02)'; this.style.boxShadow='0 0 45px rgba(0,242,254,0.4)';" 
-      onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 0 35px rgba(79,172,254,0.25)';">
-      <h3 style="margin:0; font-size:22px;">💳 UPI Cards: India’s Digital Payment Revolution</h3>
-      <p style="margin:5px 0 0; opacity:0.85;">The Next Leap in Digital Payments</p>
-    </div>
+  <h2 style="
+    color:#00FFF0;
+    font-weight:700;
+    font-size:26px;
+    letter-spacing:1px;
+    text-shadow:0 0 10px rgba(0,255,240,0.3);
+    margin-bottom:40px;
+  ">
+    ✨ Latest Insights from My Medium
+  </h2>
 
-    <!-- AI × Dev Productivity -->
-    <div onclick="window.open('https://medium.com/@omchouhan227/ai-x-developer-productivity-why-the-future-coders-are-co-pilots-not-replaced-74db35afdc81','_blank')" 
-      style="cursor:pointer; width:100%; background:linear-gradient(135deg,#43e97b,#38f9d7); padding:25px; border-radius:16px; color:#fff; box-shadow:0 0 35px rgba(56,249,215,0.25); transition:all 0.35s ease; transform:translateY(0);"
-      onmouseover="this.style.transform='translateY(-6px) scale(1.02)'; this.style.boxShadow='0 0 45px rgba(56,249,215,0.4)';" 
-      onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 0 35px rgba(56,249,215,0.25)';">
-      <h3 style="margin:0; font-size:22px;">🤖 AI × Developer Productivity</h3>
-      <p style="margin:5px 0 0; opacity:0.85;">Why Future Coders Are Co-Pilots, Not Replaced</p>
-    </div>
+  <!-- 🧩 Article Cards -->
+  <table>
+    <tr>
+      <td>
 
-  </div>
+  <!-- ChatGPT 2025 -->
+  <a href="https://medium.com/@omchouhan227/chatgpt-in-2025-the-evolution-of-intelligence-from-autonomous-agents-to-sora-2-3b70549f3a6b" target="_blank" style="
+    text-decoration:none; display:block; background:linear-gradient(135deg,#00fff0,#ff00c8);
+    color:white; padding:20px 25px; margin:12px 0; border-radius:14px;
+    box-shadow:0 0 25px rgba(0,255,240,0.25); transition:all 0.3s ease;
+  " onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 0 35px rgba(255,0,200,0.4)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 25px rgba(0,255,240,0.25)';">
+    <h3 style="margin:0; font-size:20px;">🚀 ChatGPT in 2025: The Evolution of Intelligence</h3>
+    <p style="margin:4px 0 0; opacity:0.9;">From Autonomous Agents to Sora 2</p>
+  </a>
+
+  <!-- Graph It -->
+  <a href="https://medium.com/@omchouhan227/dont-just-rag-it-graph-it-building-smarter-ai-with-neo4j-gemini-insights-from-bhavesh-bhatt-s-1162bd5b77a4" target="_blank" style="
+    text-decoration:none; display:block; background:linear-gradient(135deg,#f093fb,#f5576c);
+    color:white; padding:20px 25px; margin:12px 0; border-radius:14px;
+    box-shadow:0 0 25px rgba(255,85,172,0.25); transition:all 0.3s ease;
+  " onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 0 35px rgba(245,87,108,0.4)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 25px rgba(255,85,172,0.25)';">
+    <h3 style="margin:0; font-size:20px;">🔍 Don’t Just RAG It, Graph It</h3>
+    <p style="margin:4px 0 0; opacity:0.9;">Building Smarter AI with Neo4j & Gemini</p>
+  </a>
+
+  <!-- UPI Cards -->
+  <a href="https://medium.com/@omchouhan227/upi-cards-the-next-leap-in-indias-digital-payment-revolution-f4ce4eaa6257" target="_blank" style="
+    text-decoration:none; display:block; background:linear-gradient(135deg,#4facfe,#00f2fe);
+    color:white; padding:20px 25px; margin:12px 0; border-radius:14px;
+    box-shadow:0 0 25px rgba(79,172,254,0.25); transition:all 0.3s ease;
+  " onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 0 35px rgba(0,242,254,0.4)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 25px rgba(79,172,254,0.25)';">
+    <h3 style="margin:0; font-size:20px;">💳 UPI Cards: India’s Digital Payment Revolution</h3>
+    <p style="margin:4px 0 0; opacity:0.9;">The Next Leap in Digital Payments</p>
+  </a>
+
+  <!-- AI × Dev Productivity -->
+  <a href="https://medium.com/@omchouhan227/ai-x-developer-productivity-why-the-future-coders-are-co-pilots-not-replaced-74db35afdc81" target="_blank" style="
+    text-decoration:none; display:block; background:linear-gradient(135deg,#43e97b,#38f9d7);
+    color:white; padding:20px 25px; margin:12px 0; border-radius:14px;
+    box-shadow:0 0 25px rgba(56,249,215,0.25); transition:all 0.3s ease;
+  " onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 0 35px rgba(56,249,215,0.4)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 25px rgba(56,249,215,0.25)';">
+    <h3 style="margin:0; font-size:20px;">🤖 AI × Developer Productivity</h3>
+    <p style="margin:4px 0 0; opacity:0.9;">Why Future Coders Are Co-Pilots, Not Replaced</p>
+  </a>
+
+      </td>
+    </tr>
+  </table>
+
+  <!-- 📖 Medium CTA -->
+  <a href="https://medium.com/@omchouhan227" target="_blank" style="
+    display:inline-block; margin-top:35px;
+    padding:12px 26px;
+    background:linear-gradient(90deg,#00fff0,#ff00c8);
+    border-radius:12px; color:white; font-weight:600;
+    text-decoration:none; letter-spacing:0.5px;
+    box-shadow:0 0 25px rgba(255,0,200,0.25);
+    transition:all 0.3s ease;
+  " onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0 0 40px rgba(255,0,200,0.4)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 25px rgba(255,0,200,0.25)';">
+    📖 Explore All Articles on Medium
+  </a>
+
+</div>
+
+
 
   <!-- 🧭 Read More Button -->
   <a href="https://medium.com/@omchouhan227" target="_blank" 
