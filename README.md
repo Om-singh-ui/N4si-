@@ -1,4 +1,3 @@
-<!-- 🌐 ADVANCED FUTURISTIC GITHUB PROFILE README FOR OM SINGH CHOUHAN -->
 
 <div align="center">
 
@@ -17,8 +16,6 @@
 
 </div>
 
----
-
 ## 🚀 About Me  
 
 <div align="center" style="background: linear-gradient(135deg, #0d1117, #161b22); padding: 25px; border-radius: 15px; border: 1px solid #30363d; box-shadow: 0 0 15px rgba(0,255,240,0.2);">
@@ -33,8 +30,6 @@
   🎨 I see code as a blend of <strong style="color:#ff007f;">art & engineering</strong> — where precision meets imagination.<br/>
   🌐 Currently exploring how <strong style="color:#00fff0;">AI</strong> merges with <strong style="color:#ff007f;">human creativity</strong> to build the future of the web.
 </p>
-
----
 
 ## 🧰 Tech Stack & Tools  
 
@@ -64,8 +59,6 @@
 
 </div>
 
----
-
 ## 📈 GitHub Analytics  
 
 <div align="center" style="background: linear-gradient(135deg, #0d1117, #161b22); padding: 30px; border-radius: 15px; border: 1px solid #30363d;">
@@ -86,8 +79,6 @@
 </div>
 
 </div>
-
----
 
 ## 🧠 Featured Articles  
 
@@ -122,8 +113,6 @@
 
 </div>
 
----
-
 ## 🌐 Connect With Me  
 
 <div align="center" style="background: linear-gradient(135deg, #0d1117, #161b22); padding: 30px; border-radius: 15px; border: 1px solid #30363d;">
@@ -136,8 +125,6 @@
 
 </div>
 
----
-
 ## 💫 Inspiration & Philosophy  
 
 <div align="center" style="background: linear-gradient(135deg, #0d1117, #161b22); padding: 30px; border-radius: 15px; border: 1px solid #30363d;">
@@ -147,8 +134,6 @@
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/gh-pages/bottom_header.svg" width="100%" />
 </div>
-
----
 
 ## 🎯 Current Focus  
 
