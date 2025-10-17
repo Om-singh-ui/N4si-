@@ -24,11 +24,11 @@
 
 </div>
 
-<p align="justify" style="line-height: 1.6; background: linear-gradient(135deg, #0d1117, #161b22); padding: 25px; border-radius: 12px; border: 1px solid #30363d; box-shadow: 0 0 15px rgba(255,0,127,0.1);">
-  💻 I’m a <strong style="color:#00fff0;">Full-Stack Engineer</strong> specializing in high-performance SaaS products and modern web architectures.<br/>
-  🚀 I excel in <strong style="color:#00fff0;">Next.js</strong>, <strong style="color:#00fff0;">React</strong>, <strong style="color:#00fff0;">TypeScript</strong>, <strong style="color:#00fff0;">Node.js</strong>, and <strong style="color:#00fff0;">Prisma</strong> — delivering clean, modular, and scalable systems.<br/>
-  🎨 I see code as a blend of <strong style="color:#ff007f;">art & engineering</strong> — where precision meets imagination.<br/>
-  🌐 Currently exploring how <strong style="color:#00fff0;">AI</strong> merges with <strong style="color:#ff007f;">human creativity</strong> to build the future of the web.
+<p align="justify" style="line-height: 1.7; background: linear-gradient(135deg, #0d1117, #161b22); padding: 28px; border-radius: 14px; border: 1px solid #30363d; box-shadow: 0 0 18px rgba(255,0,127,0.12); font-size: 15.5px;">
+  💻 I’m a <strong style="color:#00fff0;">Full-Stack Engineer</strong> passionate about crafting <strong>high-performance SaaS platforms</strong> and <strong>cutting-edge digital experiences</strong> that scale seamlessly across users and markets.<br/><br/>
+  ⚡ With expertise in <strong style="color:#00fff0;">Next.js</strong>, <strong style="color:#00fff0;">React</strong>, <strong style="color:#00fff0;">TypeScript</strong>, <strong style="color:#00fff0;">Node.js</strong>, and <strong style="color:#00fff0;">Prisma</strong>, I architect systems that are clean, modular, and future-ready.<br/><br/>
+  🎨 I approach development as a fusion of <strong style="color:#ff007f;">art and engineering</strong> — balancing technical precision with creative intuition to build products that feel as good as they function.<br/><br/>
+  🌐 Currently exploring how <strong style="color:#00fff0;">AI-driven innovation</strong> and <strong style="color:#ff007f;">human creativity</strong> can redefine the way we build, interact, and experience the web.
 </p>
 
 ## 🧰 Tech Stack & Tools  
