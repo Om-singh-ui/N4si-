@@ -8,7 +8,7 @@
   <div>
   <h1 align="center" style="margin: 0;">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=800&duration=4000&color=00FFF0&center=true&vCenter=true&width=600&height=70&lines=Hey+👋,+I'm+Om+Singh+Chouhan;Full-Stack+Engineer;Next.js+%7C+React+%7C+Node.js+%7C+Prisma;Building+SaaS+%26+Realtime+Apps;Crafting+Clean,+Scalable+%26+Modern+Web+Ecosystems" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=800&duration=4000&color=00FFF0&center=true&vCenter=true&width=600&height=70&lines=Hey+👋,+I'm+Om+Singh+Chouhan;Full-Stack+Developer;Next.js+%7C+React+%7C+Node.js+%7C+Prisma;Building+SaaS+%26+Realtime+Apps;Crafting+Clean,+Scalable+%26+Modern+Web+Ecosystems" 
     alt="Typing Animation"
   />
 </h1>
