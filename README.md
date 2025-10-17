@@ -1,119 +1,233 @@
-<!-- 🌐 ULTRA-DARK THEME GITHUB PROFILE README FOR OM SINGH CHOUHAN -->
+<!-- 🌐 ADVANCED GITHUB PROFILE README FOR OM SINGH CHOUHAN -->
 
-<h1 align="center">
-  Hey 👋, I'm 
-  <span style="background: linear-gradient(90deg, #00fff0, #ff00c8); -webkit-background-clip: text; color: transparent;">
-    Om Singh Chouhan
-  </span>
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFF0&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Next.js+%7C+React+%7C+Node.js+%7C+Prisma;Building+SaaS+%26+Realtime+Apps;Crafting+Clean+%26+Scalable+Web+Ecosystems" alt="Typing Animation" />
+<!-- Animated Header with GIF -->
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-bottom: 30px;">
+  <img src="https://i.gifer.com/4I9G.gif" alt="Coding GIF" width="120" height="120" style="border-radius: 50%; border: 3px solid #00fff0;" />
+  <div>
+    <h1 align="center" style="margin: 0;">a
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FFF0&center=true&vCenter=true&width=550&lines=Hey+👋+I'm+Om+Singh+Chouhan;Full-Stack+Engineer;Next.js+%7C+React+%7C+Node.js+%7C+Prisma;Building+SaaS+%26+Realtime+Apps;Crafting+Clean+%26+Scalable+Web+Ecosystems" alt="Typing Animation" />
+    </h1>
+  </div>
+</div>
+
+<!-- Profile Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00fff0&height=120&section=header&animation=fadeIn&reversal=true" />
+
+</div>
+
+## 🚀 About Me
+
+<div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 25px; border-radius: 15px; border: 1px solid #30363d; margin: 20px 0;">
+
+> *"Turning ideas into seamless, human-centered digital experiences."*
+
+</div>
+
+<div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 25px; border-radius: 15px; border: 1px solid #30363d; margin: 20px 0;">
+<p align="justify" style="margin: 0; line-height: 1.6;">
+  💻 I'm a <strong style="color: #00fff0;">Full-Stack Engineer</strong> passionate about crafting high-performance SaaS systems and scalable architectures.  
+  🚀 My expertise lies in <strong style="color: #00fff0;">React</strong>, <strong style="color: #00fff0;">Next.js</strong>, <strong style="color: #00fff0;">TypeScript</strong>, <strong style="color: #00fff0;">Node.js</strong>, <strong style="color: #00fff0;">Tailwind CSS</strong>, and <strong style="color: #00fff0;">Prisma</strong>, focusing on clean code and developer-centric design.  
+  🧠 I approach development as both <strong style="color: #00fff0;">art and engineering</strong>, where every decision reflects purpose, precision, and performance.  
+  🌐 Beyond the stack, I love exploring how <strong style="color: #00fff0;">AI and human creativity</strong> intersect to shape next-gen web experiences.
 </p>
+</div>
 
 ---
 
-<p align="center">
+## 🛠️ Tech Stack & Tools
+
+<div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 30px; border-radius: 15px; border: 1px solid #30363d; margin: 20px 0;">
+
+### 💻 Frontend & Backend
+<div align="center" style="margin: 20px 0;">
+  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007ACC)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=339933)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC)
+
+</div>
+
+### 🗄️ Databases & ORM
+<div align="center" style="margin: 20px 0;">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=316192)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=2D3748)
+
+</div>
+
+### 🚀 Deployment & Cloud
+<div align="center" style="margin: 20px 0;">
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=00C7B7)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E)
+
+</div>
+
+### 🎨 Design & Tools
+<div align="center" style="margin: 20px 0;">
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
+
+</div>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 30px; border-radius: 15px; border: 1px solid #30363d; margin: 20px 0;">
+
+<div align="center">
+
+<!-- GitHub Stats Cards -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <a href="https://github.com/om-singh-ui">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=om-singh-ui&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00fff0&icon_color=ff007f&text_color=ffffff" />
+  </a>
+  <a href="https://github.com/om-singh-ui">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=om-singh-ui&theme=radical&hide_border=true&background=0d1117&ring=00fff0&fire=ff007f&currStreakLabel=00fff0&dates=ffffff" />
+  </a>
+</div>
+
+<!-- Top Languages -->
+<div style="margin-top: 20px;">
+  <a href="https://github.com/om-singh-ui">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-singh-ui&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00fff0&text_color=ffffff&langs_count=8" />
+  </a>
+</div>
+
+<!-- GitHub Activity Graph -->
+<div style="margin-top: 20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=om-singh-ui&theme=react-dark&bg_color=0d1117&hide_border=true&color=00fff0&line=ff007f&point=00fff0&area=true&area_color=00fff0" width="100%" />
+</div>
+
+</div>
+
+</div>
+
+---
+
+## 📚 Featured Articles
+
+<div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 30px; border-radius: 15px; border: 1px solid #30363d; margin: 20px 0;">
+
+<div align="center">
+
+### 🧠 Latest Insights on Medium
+
+</div>
+
+<div align="center" style="display: flex; flex-direction: column; gap: 15px; margin-top: 20px;">
+
+<!-- Article Cards -->
+<a href="https://medium.com/@omchouhan227/chatgpt-in-2025-the-evolution-of-intelligence-from-autonomous-agents-to-sora-2-3b70549f3a6b" style="text-decoration:none;">
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 12px; color: white; transition: transform 0.3s ease; border: 1px solid #30363d;">
+    <h3 style="margin: 0 0 10px 0;">🚀 ChatGPT in 2025: The Evolution of Intelligence</h3>
+    <p style="margin: 0; opacity: 0.9;">From Autonomous Agents to Sora 2</p>
+  </div>
+</a>
+
+<a href="https://medium.com/@omchouhan227/dont-just-rag-it-graph-it-building-smarter-ai-with-neo4j-gemini-insights-from-bhavesh-bhatt-s-1162bd5b77a4" style="text-decoration:none;">
+  <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 12px; color: white; transition: transform 0.3s ease; border: 1px solid #30363d;">
+    <h3 style="margin: 0 0 10px 0;">🔍 Don't Just RAG It, Graph It</h3>
+    <p style="margin: 0; opacity: 0.9;">Building Smarter AI with Neo4j & Gemini</p>
+  </div>
+</a>
+
+<a href="https://medium.com/@omchouhan227/upi-cards-the-next-leap-in-indias-digital-payment-revolution-f4ce4eaa6257" style="text-decoration:none;">
+  <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 12px; color: white; transition: transform 0.3s ease; border: 1px solid #30363d;">
+    <h3 style="margin: 0 0 10px 0;">💳 UPI Cards: India's Digital Payment Revolution</h3>
+    <p style="margin: 0; opacity: 0.9;">The Next Leap in Digital Payments</p>
+  </div>
+</a>
+
+</div>
+
+<div align="center" style="margin-top: 25px;">
+  <a href="https://medium.com/@omchouhan227" target="_blank">
+    <img src="https://img.shields.io/badge/📖_Read_More_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000&border=1px%20solid%2030363d" />
+  </a>
+</div>
+
+</div>
+
+---
+
+## 🌟 Connect With Me
+
+<div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 30px; border-radius: 15px; border: 1px solid #30363d; margin: 20px 0;">
+
+<div align="center">
+
+<!-- Social Links with Icons -->
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/om-singh-chouhan-1a761a323/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&border=1px%20solid%2030363d"/>
   </a>
   <a href="https://www.instagram.com/om_singh_chouhan_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&border=1px%20solid%2030363d"/>
   </a>
   <a href="https://medium.com/@omchouhan227" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E&border=1px%20solid%2030363d"/>
   </a>
   <a href="mailto:omchouhan227@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&border=1px%20solid%2030363d"/>
   </a>
-</p>
+  <a href="https://github.com/om-singh-ui">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&border=1px%20solid%2030363d"/>
+  </a>
+</div>
 
----
+</div>
 
-### 💡 About Me
-
-<div align="center" style="background: linear-gradient(135deg,#0f0f0f,#1a1a1a); padding:25px; border-radius:20px; color:#00fff0; max-width:800px; margin:auto; box-shadow:0 10px 25px rgba(0,255,240,0.2);">
-  <p>💻 I'm a <b>Full-Stack Engineer</b> passionate about crafting high-performance SaaS systems and scalable architectures.</p>
-  <p>🚀 Expertise in <b>React, Next.js, TypeScript, Node.js, Tailwind CSS, Prisma</b>, focusing on clean code and developer-centric design.</p>
-  <p>🧠 Development is both <b>art and engineering</b>, where every decision reflects purpose, precision, and performance.</p>
-  <p>🌐 Exploring the intersection of <b>AI & human creativity</b> to build next-gen web experiences.</p>
 </div>
 
 ---
 
-### ⚙️ Tech Arsenal
+## 💫 Inspiration & Philosophy
 
-<p align="center" style="margin-top:15px;">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,prisma,tailwind,mongodb,postgresql,vercel,netlify,figma,aws,vscode,git&theme=dark" style="border-radius:12px; box-shadow:0 5px 15px rgba(0,255,240,0.2);" />
-</p>
+<div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 30px; border-radius: 15px; border: 1px solid #30363d; margin: 20px 0;">
 
----
-
-### 📊 GitHub Performance (Animated Graphs)
-
-<div align="center" style="display:flex; justify-content:center; gap:25px; flex-wrap:wrap; margin-top:15px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=om-singh-ui&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=false" height="170" style="border-radius:15px; box-shadow:0 10px 25px rgba(255,0,200,0.2);"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=om-singh-ui&theme=dark&hide_border=true" height="170" style="border-radius:15px; box-shadow:0 10px 25px rgba(0,255,240,0.2);"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-singh-ui&layout=compact&theme=dark&hide_border=true" height="170" style="border-radius:15px; box-shadow:0 10px 25px rgba(255,0,200,0.2);"/>
-</div>
-
----
-
-### 🧩 Featured Articles on Medium
-
-<div align="center" style="display:flex; flex-direction:column; gap:15px; margin-top:15px;">
-  <a href="https://medium.com/@omchouhan227/chatgpt-in-2025-the-evolution-of-intelligence-from-autonomous-agents-to-sora-2-3b70549f3a6b" target="_blank" style="text-decoration:none;">
-    <div style="background: linear-gradient(90deg,#ff00c8,#00fff0); color:white; padding:16px 22px; border-radius:15px; box-shadow:0 5px 20px rgba(255,0,200,0.3); transition: transform 0.3s; cursor:pointer;">
-      🧠 ChatGPT in 2025: The Evolution of Intelligence — From Autonomous Agents to Sora 2
-    </div>
-  </a>
-  <a href="https://medium.com/@omchouhan227/dont-just-rag-it-graph-it-building-smarter-ai-with-neo4j-gemini-insights-from-bhavesh-bhatt-s-1162bd5b77a4" target="_blank" style="text-decoration:none;">
-    <div style="background: linear-gradient(90deg,#00fff0,#ff00c8); color:white; padding:16px 22px; border-radius:15px; box-shadow:0 5px 20px rgba(0,255,240,0.3); transition: transform 0.3s; cursor:pointer;">
-      🔍 Don’t Just RAG It, Graph It — Building Smarter AI with Neo4j & Gemini
-    </div>
-  </a>
-  <a href="https://medium.com/@omchouhan227/upi-cards-the-next-leap-in-indias-digital-payment-revolution-f4ce4eaa6257" target="_blank" style="text-decoration:none;">
-    <div style="background: linear-gradient(90deg,#ff00c8,#00fff0); color:white; padding:16px 22px; border-radius:15px; box-shadow:0 5px 20px rgba(255,0,200,0.3); transition: transform 0.3s; cursor:pointer;">
-      💳 UPI Cards: The Next Leap in India’s Digital Payment Revolution
-    </div>
-  </a>
-</div>
-
-<p align="center" style="margin-top:12px;">
-  <a href="https://medium.com/@omchouhan227" target="_blank">
-    <img src="https://img.shields.io/badge/Read_More_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</p>
-
----
+<div align="center">
 
 ### 🧠 Quote I Live By
 
-<div align="center" style="font-size:18px; font-style:italic; color:#00fff0; background: linear-gradient(135deg, #151515, #1f1f1f); padding:22px; border-radius:20px; margin:20px 0; box-shadow:0 5px 25px rgba(0,255,240,0.3);">
-  “Technology is not just about automation — it’s about amplifying imagination.” — Om Singh Chouhan
+<div style="background: linear-gradient(135deg, #00fff0 0%, #ff007f 100%); padding: 25px; border-radius: 12px; margin: 20px 0;">
+  <h3 style="color: #000; margin: 0; font-style: italic;">
+    "Technology is not just about automation — it's about amplifying imagination."
+  </h3>
+  <p style="color: #000; margin: 10px 0 0 0; font-weight: bold;">— Om Singh Chouhan</p>
+</div>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/gh-pages/bottom_header.svg" width="100%" />
+
+</div>
+
 </div>
 
 ---
 
-### 🎭 Fun & Flow
+## 🎯 Current Focus
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=151515&textColor=00fff0&aColor=ff007f" alt="Jokes Card" style="border-radius:15px; box-shadow:0 5px 20px rgba(255,0,200,0.3);" />
-</p>
+<div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 30px; border-radius: 15px; border: 1px solid #30363d; margin: 20px 0;">
 
----
+<div align="center">
 
-### 🌍 Visitor Insights
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=om-singh-ui&label=Profile%20Views&color=00fff0&icon=5&pretty=true" style="border-radius:15px; box-shadow:0 5px 20px rgba(0,255,240,0.3);" />
-</p>
-
----
-
-<h3 align="center" style="background: linear-gradient(90deg,#00fff0,#ff00c8); -webkit-background-clip: text; color: transparent; font-weight:bold;">
-✨ Crafted with precision, purpose, and creativity ✨
-</h3>
-<p align="center">© 2025 Om Singh Chouhan | Full-Stack Engineer • Innovator • Builder</p>
-
-<!-- Created using GPRM (https://gprm.itsvg.in) -->
+```javascript
+const currentFocus = {
+  frontend: ["Next.js 14", "React 18", "TypeScript"],
+  backend: ["Node.js", "Prisma", "GraphQL"],
+  databases: ["PostgreSQL", "MongoDB"],
+  devOps: ["Vercel", "AWS", "Docker"],
+  learning: ["AI/ML Integration", "Web3", "System Design"]
+};
