@@ -6,14 +6,11 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-bottom: 30px;">
   <img src="https://i.gifer.com/4I9G.gif" alt="Coding GIF" width="120" height="120" style="border-radius: 50%; border: 3px solid #00fff0;" />
   <div>
-    <h1 align="center" style="margin: 0;">a
+    <h1 align="center" style="margin: 0;">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FFF0&center=true&vCenter=true&width=550&lines=Hey+👋+I'm+Om+Singh+Chouhan;Full-Stack+Engineer;Next.js+%7C+React+%7C+Node.js+%7C+Prisma;Building+SaaS+%26+Realtime+Apps;Crafting+Clean+%26+Scalable+Web+Ecosystems" alt="Typing Animation" />
     </h1>
   </div>
 </div>
-
-<!-- Profile Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00fff0&height=120&section=header&animation=fadeIn&reversal=true" />
 
 </div>
 
