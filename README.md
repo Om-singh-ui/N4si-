@@ -93,48 +93,56 @@
 
 ## 🧠 Featured Articles  
 
-<div align="center" style="background: linear-gradient(135deg, #0d1117, #161b22); padding: 30px; border-radius: 15px; border: 1px solid #30363d; box-shadow: 0 0 20px rgba(255,0,127,0.1);">
+<div align="center" style="background: linear-gradient(135deg, #0a0f14, #111821, #0d1117); padding: 50px; border-radius: 22px; border: 1px solid rgba(255,255,255,0.08); box-shadow: 0 0 30px rgba(255,0,127,0.12); max-width: 850px; margin: auto;">
 
-### 📝 Latest Insights on Medium  
+<!-- Header -->
+<h2 style="font-size: 1.8em; font-weight: 700; background: linear-gradient(90deg, #00ffe0, #ff00c8); -webkit-background-clip: text; color: transparent; margin-bottom: 25px;">
+✨ Latest Insights & Deep Dives on Medium
+</h2>
 
-<a href="https://medium.com/@omchouhan227/chatgpt-in-2025-the-evolution-of-intelligence-from-autonomous-agents-to-sora-2-3b70549f3a6b" style="text-decoration:none;">
-  <div style="background:linear-gradient(135deg,#667eea,#764ba2);padding:18px;border-radius:12px;color:white;margin:10px 0;transition:transform 0.3s ease;">
+<!-- 1️⃣ Article -->
+<a href="https://medium.com/@omchouhan227/chatgpt-in-2025-the-evolution-of-intelligence-from-autonomous-agents-to-sora-2-3b70549f3a6b" target="_blank" style="text-decoration:none;">
+  <div style="background:linear-gradient(135deg,#667eea,#764ba2);padding:20px;border-radius:14px;color:white;margin:16px 0;transition:all 0.4s ease;box-shadow:0 4px 15px rgba(102,126,234,0.3);">
     <h3>🚀 ChatGPT in 2025: The Evolution of Intelligence</h3>
-    <p>From Autonomous Agents to Sora 2</p>
+    <p style="opacity:0.9;">From Autonomous Agents to Sora 2 — exploring the next leap of AI evolution.</p>
   </div>
 </a>
 
-<a href="https://medium.com/@omchouhan227/dont-just-rag-it-graph-it-building-smarter-ai-with-neo4j-gemini-insights-from-bhavesh-bhatt-s-1162bd5b77a4" style="text-decoration:none;">
-  <div style="background:linear-gradient(135deg,#f093fb,#f5576c);padding:18px;border-radius:12px;color:white;margin:10px 0;transition:transform 0.3s ease;">
+<!-- 2️⃣ Article -->
+<a href="https://medium.com/@omchouhan227/dont-just-rag-it-graph-it-building-smarter-ai-with-neo4j-gemini-insights-from-bhavesh-bhatt-s-1162bd5b77a4" target="_blank" style="text-decoration:none;">
+  <div style="background:linear-gradient(135deg,#f093fb,#f5576c);padding:20px;border-radius:14px;color:white;margin:16px 0;transition:all 0.4s ease;box-shadow:0 4px 15px rgba(240,147,251,0.3);">
     <h3>🔍 Don't Just RAG It, Graph It</h3>
-    <p>Building Smarter AI with Neo4j & Gemini</p>
+    <p style="opacity:0.9;">Leveraging Neo4j & Gemini to unlock contextual AI through graph intelligence.</p>
   </div>
 </a>
 
-<a href="https://medium.com/@omchouhan227/upi-cards-the-next-leap-in-indias-digital-payment-revolution-f4ce4eaa6257" style="text-decoration:none;">
-  <div style="background:linear-gradient(135deg,#4facfe,#00f2fe);padding:18px;border-radius:12px;color:white;margin:10px 0;transition:transform 0.3s ease;">
+<!-- 3️⃣ Article -->
+<a href="https://medium.com/@omchouhan227/upi-cards-the-next-leap-in-indias-digital-payment-revolution-f4ce4eaa6257" target="_blank" style="text-decoration:none;">
+  <div style="background:linear-gradient(135deg,#4facfe,#00f2fe);padding:20px;border-radius:14px;color:white;margin:16px 0;transition:all 0.4s ease;box-shadow:0 4px 15px rgba(79,172,254,0.3);">
     <h3>💳 UPI Cards: India's Digital Payment Revolution</h3>
-    <p>The Next Leap in Digital Payments</p>
+    <p style="opacity:0.9;">The future of India's FinTech powered by interoperable, secure digital cards.</p>
   </div>
 </a>
 
-<a href="https://medium.com/@omchouhan227" target="_blank">
-  <img src="https://img.shields.io/badge/📖_Read_More_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+<!-- 4️⃣ Bonus Article -->
+<a href="https://medium.com/@omchouhan227/the-future-of-ai-agents-how-developers-are-building-autonomous-ecosystems-21d1a6d9d24d" target="_blank" style="text-decoration:none;">
+  <div style="background:linear-gradient(135deg,#43e97b,#38f9d7);padding:20px;border-radius:14px;color:white;margin:16px 0;transition:all 0.4s ease;box-shadow:0 4px 15px rgba(56,249,215,0.3);">
+    <h3>🤖 The Future of AI Agents</h3>
+    <p style="opacity:0.9;">How developers are architecting autonomous AI ecosystems and frameworks.</p>
+  </div>
 </a>
 
-</div>
+<!-- CTA -->
+<a href="https://medium.com/@omchouhan227" target="_blank">
+  <img src="https://img.shields.io/badge/📖_Read_More_on_Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="margin-top:25px;">
+</a>
 
-
-
-  <!-- 🧭 Read More Button -->
-  <a href="https://medium.com/@omchouhan227" target="_blank" 
-    style="display:inline-block; margin-top:40px; padding:14px 28px; background:linear-gradient(90deg,#00fff0,#ff00c8); color:white; font-weight:600; border-radius:12px; text-decoration:none; box-shadow:0 0 25px rgba(255,0,200,0.25); transition:all 0.3s ease;"
-    onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0 0 40px rgba(255,0,200,0.4)';"
-    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 25px rgba(255,0,200,0.25)';">
-    📖 Explore All Articles on Medium
-  </a>
+<!-- Optional animation GIF -->
+<br><br>
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="180" alt="Medium GIF" style="border-radius:12px; opacity:0.9;">
 
 </div>
+
 
 
 ## 🌐 Connect With Me  
