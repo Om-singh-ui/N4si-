@@ -82,36 +82,50 @@
 
 ## 🧠 Featured Articles  
 
-<div align="center" style="background: linear-gradient(135deg, #0d1117, #161b22); padding: 30px; border-radius: 15px; border: 1px solid #30363d; box-shadow: 0 0 20px rgba(255,0,127,0.1);">
+<div align="center" style="background: linear-gradient(135deg, #0a0f14, #111821, #0d1117); padding: 40px; border-radius: 20px; border: 1px solid rgba(255,255,255,0.08); box-shadow: 0 0 35px rgba(0,255,240,0.08), inset 0 0 10px rgba(0,255,255,0.05); backdrop-filter: blur(8px);">
 
-### 📝 Latest Insights on Medium  
+<h2 align="center" style="color:#00FFF0; font-family:'Fira Code', monospace; font-weight:600; letter-spacing:1px; margin-bottom:30px;">
+  ✨ Latest Insights on Medium
+</h2>
 
-<a href="https://medium.com/@omchouhan227/chatgpt-in-2025-the-evolution-of-intelligence-from-autonomous-agents-to-sora-2-3b70549f3a6b" style="text-decoration:none;">
-  <div style="background:linear-gradient(135deg,#667eea,#764ba2);padding:18px;border-radius:12px;color:white;margin:10px 0;transition:transform 0.3s ease;">
-    <h3>🚀 ChatGPT in 2025: The Evolution of Intelligence</h3>
-    <p>From Autonomous Agents to Sora 2</p>
+<!-- ChatGPT in 2025 -->
+<a href="https://medium.com/@omchouhan227/chatgpt-in-2025-the-evolution-of-intelligence-from-autonomous-agents-to-sora-2-3b70549f3a6b" target="_blank" style="text-decoration:none;">
+  <div style="background:linear-gradient(135deg,#00fff0,#ff00c8); padding:20px; border-radius:14px; color:white; margin:15px 0; transition:all 0.35s ease; transform:scale(1); box-shadow:0 0 18px rgba(0,255,240,0.25);">
+    <h3 style="margin:0; font-size:22px;">🚀 ChatGPT in 2025: The Evolution of Intelligence</h3>
+    <p style="opacity:0.9;">From Autonomous Agents to Sora 2</p>
   </div>
 </a>
 
-<a href="https://medium.com/@omchouhan227/dont-just-rag-it-graph-it-building-smarter-ai-with-neo4j-gemini-insights-from-bhavesh-bhatt-s-1162bd5b77a4" style="text-decoration:none;">
-  <div style="background:linear-gradient(135deg,#f093fb,#f5576c);padding:18px;border-radius:12px;color:white;margin:10px 0;transition:transform 0.3s ease;">
-    <h3>🔍 Don't Just RAG It, Graph It</h3>
-    <p>Building Smarter AI with Neo4j & Gemini</p>
+<!-- Graph It -->
+<a href="https://medium.com/@omchouhan227/dont-just-rag-it-graph-it-building-smarter-ai-with-neo4j-gemini-insights-from-bhavesh-bhatt-s-1162bd5b77a4" target="_blank" style="text-decoration:none;">
+  <div style="background:linear-gradient(135deg,#f093fb,#f5576c); padding:20px; border-radius:14px; color:white; margin:15px 0; transition:all 0.35s ease; transform:scale(1); box-shadow:0 0 18px rgba(255,85,172,0.25);">
+    <h3 style="margin:0; font-size:22px;">🔍 Don't Just RAG It, Graph It</h3>
+    <p style="opacity:0.9;">Building Smarter AI with Neo4j & Gemini</p>
   </div>
 </a>
 
-<a href="https://medium.com/@omchouhan227/upi-cards-the-next-leap-in-indias-digital-payment-revolution-f4ce4eaa6257" style="text-decoration:none;">
-  <div style="background:linear-gradient(135deg,#4facfe,#00f2fe);padding:18px;border-radius:12px;color:white;margin:10px 0;transition:transform 0.3s ease;">
-    <h3>💳 UPI Cards: India's Digital Payment Revolution</h3>
-    <p>The Next Leap in Digital Payments</p>
+<!-- UPI Cards -->
+<a href="https://medium.com/@omchouhan227/upi-cards-the-next-leap-in-indias-digital-payment-revolution-f4ce4eaa6257" target="_blank" style="text-decoration:none;">
+  <div style="background:linear-gradient(135deg,#4facfe,#00f2fe); padding:20px; border-radius:14px; color:white; margin:15px 0; transition:all 0.35s ease; transform:scale(1); box-shadow:0 0 18px rgba(79,172,254,0.25);">
+    <h3 style="margin:0; font-size:22px;">💳 UPI Cards: India's Digital Payment Revolution</h3>
+    <p style="opacity:0.9;">The Next Leap in Digital Payments</p>
   </div>
 </a>
 
-<a href="https://medium.com/@omchouhan227" target="_blank">
+<!-- AI x Dev Productivity -->
+<a href="https://medium.com/@omchouhan227/ai-x-developer-productivity-why-the-future-coders-are-co-pilots-not-replaced-74db35afdc81" target="_blank" style="text-decoration:none;">
+  <div style="background:linear-gradient(135deg,#43e97b,#38f9d7); padding:20px; border-radius:14px; color:white; margin:15px 0; transition:all 0.35s ease; transform:scale(1); box-shadow:0 0 18px rgba(56,249,215,0.25);">
+    <h3 style="margin:0; font-size:22px;">🤖 AI × Developer Productivity</h3>
+    <p style="opacity:0.9;">Why the Future Coders Are Co-Pilots, Not Replaced</p>
+  </div>
+</a>
+
+<!-- Read More -->
+<a href="https://medium.com/@omchouhan227" target="_blank" style="display:inline-block; margin-top:25px;">
   <img src="https://img.shields.io/badge/📖_Read_More_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-
 </div>
+
 
 ## 🌐 Connect With Me  
 
