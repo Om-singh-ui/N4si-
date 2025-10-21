@@ -10,37 +10,40 @@
 
 ## 🚀 About Me  
 
-<div align="center" style="max-width: 850px; background: linear-gradient(135deg, #0d1117, #161b22); padding: 22px; border-radius: 14px; border: 1px solid #30363d; box-shadow: 0 0 18px rgba(0,255,240,0.2); font-size:15px; line-height:1.7;">
-💻 I’m a <strong style="color:#00fff0;">Full-Stack Engineer</strong> passionate about building <strong>scalable SaaS platforms</strong> and <strong>high-performance digital experiences</strong>.<br/>
-⚡ Expert in <strong style="color:#00fff0;">Next.js</strong>, <strong style="color:#00fff0;">React</strong>, <strong style="color:#00fff0;">TypeScript</strong>, <strong style="color:#00fff0;">Node.js</strong>, and <strong style="color:#00fff0;">Prisma</strong>.<br/>
-🎨 Merging <strong style="color:#ff007f;">art & engineering</strong> to craft products that are intuitive, elegant, and functional.<br/>
-🌐 Exploring <strong style="color:#00fff0;">AI-driven innovation</strong> and <strong style="color:#ff007f;">human creativity</strong> to redefine web experiences.
+<div align="center" style="max-width: 850px; background: linear-gradient(135deg, #0d1117, #161b22); padding: 22px; border-radius: 14px; border: 1px solid #30363d; box-shadow: 0 0 18px rgba(0,255,240,0.2); font-size:15px; line-height:1.7; text-align:justify;">
+I’m a <strong style="color:#00fff0;">Full-Stack Engineer</strong> passionate about building <strong>scalable SaaS platforms</strong> and delivering <strong>high-performance digital experiences</strong>. With expertise in <strong style="color:#00fff0;">Next.js</strong>, <strong style="color:#00fff0;">React</strong>, <strong style="color:#00fff0;">TypeScript</strong>, <strong style="color:#00fff0;">Node.js</strong>, and <strong style="color:#00fff0;">Prisma</strong>, I focus on crafting applications that are both robust and efficient. By merging <strong style="color:#ff007f;">art & engineering</strong>, I aim to create products that are intuitive, elegant, and functional. I am continuously exploring <strong style="color:#00fff0;">AI-driven innovation</strong> alongside <strong style="color:#ff007f;">human creativity</strong> to redefine modern web experiences and push the boundaries of what technology can achieve.
 </div>
 
-## 🧰 Tech Stack  
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; margin-top:15px;">
-
-<!-- Frontend & Backend -->
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-<!-- Databases -->
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-<!-- Cloud & Tools -->
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+<h3 align="left">Languages and Tools:</h3>
+<div align="center" style="display:flex; flex-wrap:nowrap; gap:16px; margin-top:12px; overflow-x:auto; padding-bottom:8px;">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40"/></a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/></a>
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+  <!-- Java -->
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+  </a>
 </div>
 
 ## 📊 GitHub Stats  
@@ -54,15 +57,26 @@
 </div>
 
 
- 🌐 Connect  
+🌐 Connect  
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; margin-top:12px;">
-<a href="https://www.linkedin.com/in/om-singh-chouhan-1a761a323/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/om_singh_chouhan_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://medium.com/@omchouhan227" target="_blank"><img src="https://img.shields.io/badge/Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="mailto:omchouhan227@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/om-singh-ui"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:28px; margin-top:16px;">
+  <a href="https://www.linkedin.com/in/om-singh-chouhan-1a761a323/" target="_blank" style="margin: 6px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://www.instagram.com/om_singh_chouhan_/" target="_blank" style="margin: 6px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+  </a>
+  <a href="https://medium.com/@omchouhan227" target="_blank" style="margin: 6px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="40" width="40" />
+  </a>
+  <a href="mailto:omchouhan227@gmail.com" target="_blank" style="margin: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="40" width="40" />
+  </a>
+  <a href="https://github.com/om-singh-ui" target="_blank" style="margin: 6px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" />
+  </a>
 </div>
+
 
 
 
