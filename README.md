@@ -53,15 +53,22 @@
 
 </div>
 
-## 🌐 Connect  
+##contact 
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; margin-top:12px;">
-<a href="https://www.linkedin.com/in/om-singh-chouhan-1a761a323/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/om_singh_chouhan_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://medium.com/@omchouhan227" target="_blank"><img src="https://img.shields.io/badge/Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="mailto:omchouhan227@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/om-singh-ui"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/om-singh-chouhan-1a761a323" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Om Singh Chouhan" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/om_singh_chouhan_" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="om_singh_chouhan" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@omchouhan227" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Om Singh Chouhan" height="30" width="40" />
+  </a>
+</p>
+
+
 
 ## 💫 Philosophy  
 
