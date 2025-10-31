@@ -84,7 +84,7 @@ I’m a <strong style="color:#00fff0;">Full-Stack Engineer</strong> passionate a
 
 <div align="center" style="max-width:700px; font-size:14px; margin-top:12px;">
 <h4 style="color:#00fff0;">“Technology amplifies imagination, not just automation.”</h4>
-<p style="color:#ff007f; font-weight:bold;">— Om Singh Chouhan</p>
+<p style="color:#ff007f; font-weight:bold;">Om Singh Chouhan</p>
 </div>
 
 ## 🎯 Current Focus  
