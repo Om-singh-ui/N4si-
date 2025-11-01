@@ -1,6 +1,4 @@
 <div align="center">
-
-<!-- 🧠 Animated Intro Header -->
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 20px; margin-bottom: 30px;">
   <img src="https://i.gifer.com/4I9G.gif" alt="Coding GIF" width="120" height="120" style="border-radius: 50%; border: 2px solid #00fff0; box-shadow: 0 0 15px #00fff0;" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&duration=4000&color=00FFF0&center=true&vCenter=true&width=600&height=60&lines=Hey+👋,+I'm+Om+Singh+Chouhan;Full-Stack+Developer+%26+SaaS+Builder;Next.js+%7C+React+%7C+Node.js+%7C+Prisma" alt="Typing Animation"/>
@@ -8,7 +6,7 @@
 
 </div>
 
-## 🚀 About Me  
+ 🚀 About Me  
 
 <div align="center" style="max-width: 850px; background: linear-gradient(135deg, #0d1117, #161b22); padding: 22px; border-radius: 14px; border: 1px solid #30363d; box-shadow: 0 0 18px rgba(0,255,240,0.2); font-size:15px; line-height:1.7; text-align:justify;">
 I’m a <strong style="color:#00fff0;">Full-Stack Developer</strong> passionate about building <strong>scalable SaaS platforms</strong> and delivering <strong>high-performance digital experiences</strong>. With expertise in <strong style="color:#00fff0;">Next.js</strong>, <strong style="color:#00fff0;">React</strong>, <strong style="color:#00fff0;">TypeScript</strong>, <strong style="color:#00fff0;">Node.js</strong>, and <strong style="color:#00fff0;">Prisma</strong>, I focus on crafting applications that are both robust and efficient. By merging <strong style="color:#ff007f;">art & engineering</strong>, I aim to create products that are intuitive, elegant, and functional. I am continuously exploring <strong style="color:#00fff0;">AI-driven innovation</strong> alongside <strong style="color:#ff007f;">human creativity</strong> to redefine modern web experiences and push the boundaries of what technology can achieve.
@@ -46,7 +44,7 @@ I’m a <strong style="color:#00fff0;">Full-Stack Developer</strong> passionate 
   </a>
 </div>
 
-## 📊 GitHub Stats  
+📊 GitHub Stats  
 
 <div align="center" style="display:flex; flex-direction:column; gap:12px; margin-top:12px; max-width:850px;">
 
@@ -79,15 +77,14 @@ I’m a <strong style="color:#00fff0;">Full-Stack Developer</strong> passionate 
 
 
 
-
-## 💫 Philosophy  
+💫 Philosophy  
 
 <div align="center" style="max-width:700px; font-size:14px; margin-top:12px;">
 <h4 style="color:#00fff0;">“Technology amplifies imagination, not just automation.”</h4>
 <p style="color:#ff007f; font-weight:bold;">Om Singh Chouhan</p>
 </div>
 
-## 🎯 Current Focus  
+🎯 Current Focus  
 
 ```javascript
 const currentFocus = {
