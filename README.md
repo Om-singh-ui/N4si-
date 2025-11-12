@@ -3,8 +3,30 @@
   <img src="https://i.gifer.com/4I9G.gif" alt="Coding GIF" width="120" height="120" style="border-radius: 50%; border: 2px solid #00fff0; box-shadow: 0 0 15px #00fff0;" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&duration=4000&color=00FFF0&center=true&vCenter=true&width=600&height=60&lines=Hey+👋,+I'm+Om+Singh+Chouhan;Full-Stack+Developer+%26+SaaS+Builder;Next.js+%7C+React+%7C+Node.js+%7C+Prisma" alt="Typing Animation"/>
 </div>
-
 </div>
+<p align="center" style="margin-top: 30px;">
+  <a href="https://buymeacoffee.com/omchouhan2o" target="_blank" style="text-decoration: none;">
+    <img 
+      src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-1e1e2e?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=ff007f" 
+      alt="Buy Me a Coffee" 
+      style="
+        border-radius: 14px;
+        padding: 10px 20px;
+        background: linear-gradient(90deg, #00fff0 0%, #ff007f 100%);
+        color: #000000;
+        font-family: 'Inter', sans-serif;
+        font-weight: 700;
+        font-size: 16px;
+        letter-spacing: 0.8px;
+        box-shadow: 0 0 20px rgba(0,255,240,0.6), 0 0 40px rgba(255,0,127,0.4);
+        transition: all 0.3s ease;
+      "
+      onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 30px rgba(0,255,240,0.9), 0 0 60px rgba(255,0,127,0.7)';"
+      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 20px rgba(0,255,240,0.6), 0 0 40px rgba(255,0,127,0.4)';"
+    />
+  </a>
+</p>
+
 
  🚀 About Me  
 
